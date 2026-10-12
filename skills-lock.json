@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "retrieving-developer-knowledge": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/developers/retrieving-developer-knowledge/SKILL.md",
+      "computedHash": "3461d043788e8057432a8c92e783d3dab9199d5f78f980c35831b8b2afeb69c4"
+    }
+  }
+}
