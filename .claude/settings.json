@@ -1,0 +1,11 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.meta.ai",
+    "ANTHROPIC_MODEL": "muse-wonder-1.0",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "muse-wonder-1.0",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "muse-wonder-1.0",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "muse-wonder-1.0",
+    "CLAUDE_CODE_SUBAGENT_MODEL": "muse-wonder-1.0",
+    "ENABLE_TOOL_SEARCH": "true"
+  }
+}
